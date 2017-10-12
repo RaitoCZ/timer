@@ -20,10 +20,10 @@ class TimerTest extends PHPUnit_Framework_TestCase {
         $timer->createCheckpoint('bar');
 
         $this->assertEquals(
-            [
+            array(
                 'foo' => $timer->getCheckpoint('foo'),
                 'bar' => $timer->getCheckpoint('bar')
-            ],
+            ),
             $timer->getCheckpoints()
         );
     }
@@ -40,7 +40,7 @@ class TimerTest extends PHPUnit_Framework_TestCase {
         );
 
         $this->assertEquals(
-            ['start' => $timer->getStartTime(), 'stop' => $timer->getStopTime()],
+            array('start' => $timer->getStartTime(), 'stop' => $timer->getStopTime()),
             $timer->getCheckpoints()
         );
     }

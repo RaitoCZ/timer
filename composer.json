@@ -1,11 +1,15 @@
 {
-    "name": "weew/timer",
-    "description": "Simple timer.",
+    "name": "RaitoCZ/timer",
+    "description": "Simple timer. This is fork of weew/timer working on PHP 5.3 for older projects.",
     "license": "MIT",
     "authors": [
         {
             "name": "Maxim Kott",
             "email": "maximkott@gmail.com"
+        },
+        {
+            "name": "Raito Akehanareru",
+            "email": "info@raito.cz"
         }
     ],
     "autoload": {

@@ -9,7 +9,7 @@ class Timer implements ITimer {
     /**
      * @var array
      */
-    protected $checkpoints = [];
+    protected $checkpoints = array();
 
     /**
      * Start timer.
