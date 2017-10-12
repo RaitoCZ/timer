@@ -1,5 +1,5 @@
 <?php
-namespace Weew\Timer;
+namespace Raitocz\Timer;
 
 interface ITimer {
     /**

@@ -1,9 +1,9 @@
 <?php
 
-namespace Tests\Weew\Timer;
+namespace Tests\Raitocz\Timer;
 
 use PHPUnit_Framework_TestCase;
-use Weew\Timer\Timer;
+use Raitocz\Timer\Timer;
 
 class TimerTest extends PHPUnit_Framework_TestCase {
     public function test_get_and_create_checkpoint() {
