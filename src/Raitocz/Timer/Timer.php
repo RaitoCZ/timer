@@ -1,6 +1,6 @@
 <?php
 
-namespace Weew\Timer;
+namespace Raitocz\Timer;
 
 class Timer implements ITimer {
     const START = 'start';
