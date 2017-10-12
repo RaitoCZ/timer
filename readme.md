@@ -1,11 +1,10 @@
 # Simple timer
 
-[![Build Status](https://img.shields.io/travis/weew/timer.svg)](https://travis-ci.org/weew/timer)
-[![Code Quality](https://img.shields.io/scrutinizer/g/weew/timer.svg)](https://scrutinizer-ci.com/g/weew/timer)
-[![Test Coverage](https://img.shields.io/coveralls/weew/timer.svg)](https://coveralls.io/github/weew/timer)
-[![Dependencies](https://img.shields.io/versioneye/d/php/weew:timer.svg)](https://versioneye.com/php/weew:timer)
-[![Version](https://img.shields.io/packagist/v/weew/timer.svg)](https://packagist.org/packages/weew/timer)
-[![Licence](https://img.shields.io/packagist/l/weew/timer.svg)](https://packagist.org/packages/weew/timer)
+[![Build Status](https://img.shields.io/travis/raitocz/timer.svg)](https://travis-ci.org/raitocz/timer)
+[![Test Coverage](https://img.shields.io/coveralls/raitocz/timer.svg)](https://coveralls.io/github/raitocz/timer)
+[![Dependencies](https://img.shields.io/versioneye/d/php/raitocz:timer.svg)](https://versioneye.com/php/raitocz:timer)
+[![Version](https://img.shields.io/packagist/v/raitocz/timer.svg)](https://packagist.org/packages/raitocz/timer)
+[![Licence](https://img.shields.io/packagist/l/raitocz/timer.svg)](https://packagist.org/packages/raitocz/timer)
 
 ## Table of contents
 
