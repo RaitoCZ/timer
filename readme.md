@@ -17,7 +17,7 @@
 
 ## Installation
 
-`composer require weew/timer`
+`composer require raitocz/timer`
 
 ## Introduction
 

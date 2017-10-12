@@ -1,5 +1,5 @@
 {
-    "name": "RaitoCZ/timer",
+    "name": "raitocz/timer",
     "description": "Simple timer. This is fork of weew/timer working on PHP 5.3 for older projects.",
     "license": "MIT",
     "authors": [
